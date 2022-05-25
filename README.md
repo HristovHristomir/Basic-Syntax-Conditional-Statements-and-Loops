@@ -1,2 +1,2 @@
-# SoftUni-PRojects
+# SoftUni-Projects
 SoftUni
